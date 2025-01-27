@@ -1,0 +1,7 @@
+{
+	"usage_file": "inputs/CanIDoPutMonster_Usage_tsv.txt",
+	"payload_file": "payloads/payload_mov_1.txt",
+	"start_index": 3,
+	"count": 5,
+	"blacklist_file": "blacklists/blacklist_infinite_normal_summons.txt"
+}

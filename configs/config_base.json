@@ -1,0 +1,6 @@
+{
+	"default_values": {
+		"input_dll": "../masterduel_Data/Plugins/x86_64/duel_.dll",
+		"output": "../masterduel_Data/Plugins/x86_64/duel.dll"
+	}
+}

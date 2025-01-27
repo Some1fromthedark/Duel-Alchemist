@@ -1,0 +1,4 @@
+{
+	"usage_file": "inputs/GetPossibleMonsterCardActions_Usage.txt",
+	"payload_file": "payloads/payload_mov_val.txt"
+}
