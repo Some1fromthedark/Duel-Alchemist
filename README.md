@@ -40,7 +40,7 @@ This mod grants the player unlimited normal summons by replacing calls to `DuelC
 
 Run the script with the following command:
 ```bash
-python script_name.py -c configs/config_infinite_normal_summons.json
+python duel_alchemist.py -c configs/config_infinite_normal_summons.json
 ```
 
 ### Enable Actions Mod
@@ -48,5 +48,5 @@ This mod ensures that when the player has a normal summon, they always have the 
 
 Run the script with the following command:
 ```bash
-python script_name.py -c configs/config_enable_actions.json
+python duel_alchemist.py -c configs/config_enable_actions.json
 ```
