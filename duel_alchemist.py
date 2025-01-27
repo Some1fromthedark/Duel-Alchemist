@@ -193,8 +193,7 @@ def main():
         payload_values = []
     # TO-DO: Allow for larger payload lengths by adjusting dll metadata?
     if len(payload_values) > min_instruction_len:
-        print("Error: The payload length must be less than or equal to {}".format(min_instruction_len))
-        assert False
+        raise Exception("Error: The payload length must be less than or equal to {}".format(min_instruction_len))
     payload_bytes = struct.pack("B"*len(payload_values), *payload_values)
     
     print("Payload Values: {}".format(" ".join([hex(value) for value in payload_values])))
