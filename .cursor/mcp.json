@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "ghidra-mcp": {
+      "command": "C:\\.local\\bin\\bridge-mcp-ghidra.exe"
+    }
+  }
+}

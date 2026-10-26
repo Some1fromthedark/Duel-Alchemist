@@ -1,0 +1,3 @@
+1800c3cca	CanIDoPutMonster	CALL GetAdvanceSummonTributeCount	Call
+18025b9b3	CheckNormalSummonWithoutTributePath	CALL GetAdvanceSummonTributeCount	Call
+180861feb	FUN_180861e60	CALL GetAdvanceSummonTributeCount	Call
